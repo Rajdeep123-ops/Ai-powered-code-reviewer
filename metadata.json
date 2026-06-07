@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Code Reviewer",
+  "description": "An interactive tool that runs clean, detailed code quality reviews and rapid security vulnerability scans, highlighting bugs, CWE violations, and secure fix integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
